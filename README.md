@@ -20,3 +20,7 @@
 
 ## Diagram Sequence Pembuatan Laporan
 ![Seq Laporan](https://github.com/DimasF3009/analisa-usecase/assets/115356128/f1155aa3-1315-4ccf-b478-f91e78ab97b4)
+
+## Diagram CLass
+![Class](https://github.com/DimasF3009/analisa-usecase/assets/115356128/78deb1ac-d2b6-42b8-be4f-0629bc9785ba)
+
